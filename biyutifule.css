@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background-color: skyblue;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+    margin: auto;
+    background-color: cyan;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 9px;  
+    text-align: left;
+}
+
+th {
+    background-color: gold;
+    color: black;
+}
